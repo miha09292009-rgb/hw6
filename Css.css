@@ -1,0 +1,112 @@
+body{
+background-color: #4077c5;
+}
+
+nav{
+display: flex;
+justify-content: space-between;
+align-items: flex-start;
+font-size: 50px;
+margin-top: 40px;
+padding: 10px;
+}
+
+.a_one{
+  text-decoration: none;
+  color:white;
+  background-color: rgb(135, 118, 165);
+  padding: 7px;
+  border-radius: 5px;
+}
+
+.a_one:hover{
+transition: 0.4s;
+padding: 15px;
+box-shadow: 0 4px 8px black;
+}
+
+.a_two{
+  text-decoration: none;
+  color: white;
+  background-color: rgb(135, 118, 165);
+  padding: 7px;
+  border-radius: 5px;
+}
+
+.a_two:hover{
+transition: 0.4s;
+padding: 15px;
+box-shadow: 0 4px 8px black;
+}
+
+.a_three{
+  text-decoration: none;
+  color: white;
+ background-color: rgb(135, 118, 165);
+  padding: 7px;
+  border-radius: 5px;
+}
+
+.a_three:hover{
+transition: 0.4s;
+padding: 15px;
+box-shadow: 0 4px 8px black;
+}
+
+.main{
+    background-color: rgba(0, 0, 0, 0.548);
+    display: flex;
+    justify-content: stretch;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.foto{
+    border-radius: 45px;
+}
+
+.one{
+    background-color:  rgb(135, 118, 165);
+    color:  white;
+    text-align: center;
+    margin: 20px;
+    padding: 13px;
+    border-radius: 45px;
+}
+
+.one:hover{
+transition: 0.4s;
+padding: 35px;
+box-shadow: 0 4px 8px black;
+}
+
+.two{
+    background-color:  rgb(135, 118, 165);
+    color:  white;
+    text-align: center;
+    margin: 20px;
+    padding: 13px;
+    border-radius: 45px;
+}
+
+.two:hover{
+transition: 0.4s;
+padding: 35px;
+box-shadow: 0 4px 8px black;
+}
+
+.three{
+    background-color: rgb(135, 118, 165);
+    color:  white;
+    text-align: center;
+    margin: 20px;
+    padding: 13px;
+    border-radius: 45px;
+}
+
+.three:hover{
+transition: 0.4s;
+padding: 35px;
+box-shadow: 0 4px 8px black;
+}
+
